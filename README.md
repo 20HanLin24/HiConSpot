@@ -88,8 +88,8 @@ Parts of this project are adapted from the open-source projects listed below; or
 @article{song2026hiconspot,
   title   = {HiConSpot: Hierarchical Connectivity-Aware Multimodal Parsing of
              Civil and Structural Primitives in Substation CAD Drawings},
-  author  = {Song, Qianyun and Lin, Han and Zhang, Yulong and
-             Zheng, Song and Zhu, Yuhang and Xu, Zhezhuang},
+  author  = {Qianyun Song, Han Lin, Yulong Zhang,
+             Song Zheng, Yuhang Zhu, Zhezhuang Xu},
   journal = {TODO: journal name after acceptance},
   year    = {2026},
   note    = {Code: https://github.com/20HanLin24/HiConSpot}
